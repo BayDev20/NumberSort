@@ -13,7 +13,7 @@ This program allows you to enter a list of integers separated by commas. You can
 3. Click the "Sort" button to start the sorting process.
 4. Optionally, click the "Save" button to save the sorted list to a text file.
 
-![Insertion Sort Visualization](images/preview.png)
+![Insertion Sort Visualization](HomeScreen.png)
 
 ## License
 
